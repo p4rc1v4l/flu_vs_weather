@@ -1,0 +1,12 @@
+City,Line equation,R-squared
+Phoenix,y = -2.64x + 238.51,R^2 = 0.356
+Los Angeles,y = -6.16x + 469.47,R^2 = 0.061
+San Francisco,y = -7.98x + 533.6,R^2 = 0.076
+Denver,y = -3.79x + 243.91,R^2 = 0.186
+Atlanta,y = -4.58x + 356.01,R^2 = 0.312
+Chicago,y = -1.04x + 73.72,R^2 = 0.136
+New York,y = -6.23x + 438.84,R^2 = 0.37
+Philadelphia,y = -2.47x + 180.29,R^2 = 0.321
+Dallas,y = -8.14x + 663.21,R^2 = 0.328
+Houston,y = -10.29x + 839.57,R^2 = 0.34
+Seattle,y = -2.31x + 152.01,R^2 = 0.246
